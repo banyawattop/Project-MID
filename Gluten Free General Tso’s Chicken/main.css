@@ -1,0 +1,68 @@
+.LOGO{
+    text-align: center;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+.j1{
+    font-size: 90;
+    font-weight: bold;
+    color: orange;
+    background-color: black;
+    text-align: center;
+}
+.img_1{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+    display: inline-block;
+    background-color: orange;
+
+}
+.face{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color: cornsilk;
+}
+th{
+  text-align: center;
+}
+.text1{
+    background-color: cornsilk;
+    text-align: center;
+    
+}
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.flex_container > div{
+    border: 2px solid orange;
+    -ms-flex-align: center;  
+    
+}
+.bg{
+    background-color:orange;
+    flex-wrap: wrap;
+    display: inline-block;
+}
+body{
+    background-color:bisque;
+}
+.text2{
+    background-color: cornsilk;
+}
+#one{
+    position: fixed;
+    right: 1%;
+    background-color: brown;
+
+
+}
+img{
+    width:  50%; 
+}
